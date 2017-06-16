@@ -6,7 +6,7 @@ TODO:
 - Allow for full binder page scans
 - Add user authentication
 - Stock prices and push notifications
-
+-QR code to share collection
 
 To get up and running:
 
